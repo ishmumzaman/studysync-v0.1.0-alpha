@@ -1,0 +1,15 @@
+# Simple StudySync Dockerfile that actually works
+FROM openjdk:17-jdk-slim
+
+WORKDIR /app
+
+# Copy the simple demo application
+COPY StudySyncSimpleAPI.java .
+
+# Compile and run
+RUN javac StudySyncSimpleAPI.java
+
+EXPOSE 8080
+
+CMD ["java", "StudySyncSimpleAPI"]
+
