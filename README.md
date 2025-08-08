@@ -250,7 +250,7 @@ StudySync/
 
 ## 📞 Support
 
-For support, email support@studysync.app or join our Slack channel.
+For support, email ishmumz07@gmail.com
 
 ## 🎯 Roadmap
 
@@ -268,6 +268,8 @@ For support, email support@studysync.app or join our Slack channel.
 - Mobile App Cold Start: < 2 seconds
 - WebSocket Latency: < 100ms
 - Offline Sync Recovery: < 5 seconds
+
+## 🙏 Contributors 
 
 ## 🙏 Acknowledgments
 
