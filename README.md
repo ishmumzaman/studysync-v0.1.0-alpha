@@ -270,6 +270,8 @@ For support, email ishmumz07@gmail.com
 - Offline Sync Recovery: < 5 seconds
 
 ## 🙏 Contributors 
+- [Ishmum Zaman](github.com/ishmumzaman)
+- Mohammed Nihad
 
 ## 🙏 Acknowledgments
 
